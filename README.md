@@ -17,7 +17,7 @@ A fun and simple Meme Generator app built using **HTML**, **CSS**, and **JavaScr
 
 ## 🎬 Demo
 
-Live Demo 👉 [Click Here](https://kamalmukhiya.github.io/MemeGenerator/) <!-- Replace with your actual GitHub Pages link -->
+Live Demo 👉 [Click Here] https://github.com/kamalmukhiya/MemeGenerator.git
 
 
 
